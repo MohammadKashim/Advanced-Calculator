@@ -74,7 +74,7 @@ Interface	Conversion	Scientific Mode	Standard Mode
 
 ## ⬇️ Download & Run
 ```bash
-   git clone https://github.com/manishrnl/Advanced-Calculator.git
+   git clone https://github.com/MohammadKashim/Advanced-Calculator.git
    cd Advanced-Calculator
 
 ```
